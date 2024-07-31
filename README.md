@@ -9,6 +9,7 @@ Preparing
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Preparing
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
