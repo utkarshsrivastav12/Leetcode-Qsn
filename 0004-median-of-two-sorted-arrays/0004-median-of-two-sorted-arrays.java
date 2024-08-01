@@ -9,7 +9,7 @@ class Solution {
            return findMedianSortedArrays(nums2, nums1);
         }
 
-        //nums1 is smaller and nums2 is ggrater.
+        //nums1 is smaller and nums2 is greater.
         int n1 =nums1.length;
         int n2 = nums2.length;
         int N = n1+n2;
@@ -34,7 +34,7 @@ class Solution {
                 if(N%2!=0){
                     return (double)Math.min(r1,r2);
                 }
-                //else if N i even, two medians, so take average
+                //else if N is even, two medians, so take average
                 else{
                     return ((Math.max(l1,l2) + Math.min(r1,r2))/2.0);
                 }
