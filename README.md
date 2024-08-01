@@ -7,6 +7,7 @@ Preparing
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
@@ -20,6 +21,7 @@ Preparing
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
