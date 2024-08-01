@@ -50,4 +50,12 @@ Preparing
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
