@@ -8,13 +8,7 @@ class Solution {
                 nums[left] = temp;
                 left++;
             }
-            // if(nums[i]==0 && nums[end]!=0){
-            //     temp=nums[end];
-            //     nums[end]=nums[i];
-            //     end--;
-            // }else{
-            //     nums[i]=temp;
-            // }
+           
         }
     }
 }
