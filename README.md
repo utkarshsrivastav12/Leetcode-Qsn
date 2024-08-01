@@ -12,6 +12,7 @@ Preparing
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Preparing
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
