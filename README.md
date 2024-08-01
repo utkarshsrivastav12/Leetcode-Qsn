@@ -7,6 +7,7 @@ Preparing
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ Preparing
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -40,4 +42,8 @@ Preparing
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
