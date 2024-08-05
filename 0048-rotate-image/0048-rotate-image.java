@@ -11,7 +11,7 @@ class Solution {
             }
         }
     }
-
+    //Transpose matrix
     static void transposeMatrix(int arr[][]){
         int n =arr.length;
         for(int i =0;i<n;i++){
