@@ -99,4 +99,8 @@ Preparing
 | ------- |
 | [0054-spiral-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0059-spiral-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
