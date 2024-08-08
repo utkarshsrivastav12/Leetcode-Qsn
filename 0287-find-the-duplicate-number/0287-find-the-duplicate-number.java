@@ -12,33 +12,39 @@ class Solution {
 //     }
 
 // Solution 2nd-------------------------
-   cycleSort(nums);
-   for(int i = 0;i<nums.length;i++){
-    if(nums[i]!=i+1){
-        return nums[i];
+   int arr[] = nums;
+   for(int i = 0;i<arr.length;i++){
+    int element = Math.abs(arr[i]);
+    int actualIndex = element-1;
+    if(arr[actualIndex]<0){
+        return element;
+    }else{
+        arr[actualIndex]=-1*arr[actualIndex];
     }
-   }
+}
+    
    return -1;
-}
-    public void cycleSort(int arr[]){
-        int n = arr.length;
-        int index =0;
-        for(int i= 0 ;i<n;i++){
-            int element= arr[index];
-            int correctPos=element-1;
-            if(arr[index]!=arr[correctPos]){
-            swap(arr,index,correctPos);
-             }else{
-                index++;
-             }
-        }
-    }
-    public void swap(int arr[],int id1,int id2){
-        int temp = arr[id1];
-        arr[id1] = arr[id2];
-        arr[id2]= temp;
     }
 }
+//     public void cycleSort(int arr[]){
+//         int n = arr.length;
+//         int index =0;
+//         for(int i= 0 ;i<n;i++){
+//             int element= arr[index];
+//             int correctPos=element-1;
+//             if(arr[index]!=arr[correctPos]){
+//             swap(arr,index,correctPos);
+//              }else{
+//                 index++;
+//              }
+//         }
+//     }
+//     public void swap(int arr[],int id1,int id2){
+//         int temp = arr[id1];
+//         arr[id1] = arr[id2];
+//         arr[id2]= temp;
+//     }
+// }
 
 
 
