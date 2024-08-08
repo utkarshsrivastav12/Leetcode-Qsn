@@ -21,9 +21,9 @@ for(int i = 0 ; i<nums.length;i++){
    int actualIndex = element-1;
    if(nums[actualIndex]<0){
     list.add(element);
-   }else{
-    nums[actualIndex]=-1*nums[actualIndex];
    }
+    nums[actualIndex]=-1*nums[actualIndex];
+   
   }
   return list;
 }
