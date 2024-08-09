@@ -106,5 +106,6 @@ Preparing
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0183-customers-who-never-order) |
 | [0607-sales-person](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
