@@ -39,6 +39,7 @@ Preparing
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -108,4 +109,8 @@ Preparing
 | ------- |
 | [0183-customers-who-never-order](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0183-customers-who-never-order) |
 | [0607-sales-person](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0607-sales-person) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
