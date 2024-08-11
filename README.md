@@ -113,6 +113,11 @@ Preparing
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
