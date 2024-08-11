@@ -1,7 +1,7 @@
 class Solution {
     public String reverseWords(String s) {
         //convert to char array
-       char arr[] = s.toCharArray();
+       char arr[] = s.toCharArray();//use also StringBuilder
         int len = arr.length;
         int startPointer = 0;
         for(int endPointer=0;endPointer<=len;endPointer++){
