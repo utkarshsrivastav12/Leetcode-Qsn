@@ -22,6 +22,7 @@ Preparing
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
@@ -36,6 +37,7 @@ Preparing
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Preparing
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
@@ -143,6 +146,7 @@ Preparing
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
 ## Data Stream
