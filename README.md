@@ -126,6 +126,7 @@ Preparing
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
@@ -133,4 +134,16 @@ Preparing
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
