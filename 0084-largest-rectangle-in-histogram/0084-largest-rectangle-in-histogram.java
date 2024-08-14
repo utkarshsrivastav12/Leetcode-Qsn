@@ -1,23 +1,49 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-      //using single  stack...
-      Stack<Integer>stack = new Stack<>();
-      int n = heights.length;
-      int max = Integer.MIN_VALUE;
-      for(int i = 0; i<=n;i++){
-        int element =(i==n)?0:heights[i];
-       while(!stack.isEmpty() && heights[stack.peek()]>element){
-        int h =heights[stack.pop()];
-        int ns = i;
-        int ps =(stack.isEmpty())?-1:stack.peek();
-        int w = ns-ps-1;
-        int area = h*w;
-        max = Math.max(max,area);
+        // using custum stack
+        int n = heights.length;
+       int stack[] = new int[n+1];
+       int index=-1;
+       int max = Integer.MIN_VALUE;
+       for(int i =0;i<=n;i++){
+        int element=(i==n)?0:heights[i];
+        while(index!=-1 && heights[stack[index]]>element){
+          int h=  heights[stack[index--]];
+          int ps=(index==-1)?-1:stack[index];
+          int ns=i;
+          int w= ns-ps-1;
+          int area = h*w;
+          max = Math.max(max,area);
+        }
+          stack[++index]=i;
        }
-       stack.push(i);
+return (max==Integer.MIN_VALUE)?0:max;
 
-      }
-     return (max==Integer.MIN_VALUE)?0:max;
+
+
+
+
+
+
+
+    //   //using single  stack...
+    //   Stack<Integer>stack = new Stack<>();
+    //   int n = heights.length;
+    //   int max = Integer.MIN_VALUE;
+    //   for(int i = 0; i<=n;i++){
+    //     int element =(i==n)?0:heights[i];
+    //    while(!stack.isEmpty() && heights[stack.peek()]>element){
+    //     int h =heights[stack.pop()];
+    //     int ns = i;
+    //     int ps =(stack.isEmpty())?-1:stack.peek();
+    //     int w = ns-ps-1;
+    //     int area = h*w;
+    //     max = Math.max(max,area);
+    //    }
+    //    stack.push(i);
+
+    //   }
+    //  return (max==Integer.MIN_VALUE)?0:max;
 
 
 
