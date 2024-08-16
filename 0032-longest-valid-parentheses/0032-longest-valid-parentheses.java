@@ -13,9 +13,9 @@ class Solution {
             if(stack.isEmpty()){
                 stack.push(i);
             }else{
-            // int currentIndex = i;
-            // int mostRecentInvalid = stack.peek();
-            max=Math.max(max,i - stack.peek());
+            int currentIndex = i;
+            int mostRecentInvalid = stack.peek();
+            max=Math.max(max,currentIndex - mostRecentInvalid);
             }
         }
      }
