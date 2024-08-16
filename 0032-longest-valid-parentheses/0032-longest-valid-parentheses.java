@@ -1,25 +1,54 @@
 class Solution {
     public int longestValidParentheses(String s) {
-     //1st method optimize code 
-     Stack<Integer>stack = new Stack<>();
-     int max = 0 ;
-     stack.push(-1);
-     for(int i =0 ;i<s.length();i++){
-        char ch=s.charAt(i);
+
+     //1st method very optimize code
+     int stack[] = new int[s.length()+1];
+     int index=-1;
+     int max=0;
+     stack[++index]=-1;
+     for(int i=0;i<s.length();i++){
+        char ch= s.charAt(i);
         if(ch=='('){
-            stack.push(i);
+            stack[++index]=i;
         }else{
-            stack.pop();
-            if(stack.isEmpty()){
-                stack.push(i);
+            index--;
+            if(index==-1){
+                stack[++index]=i;
             }else{
-            int currentIndex = i;
-            int mostRecentInvalid = stack.peek();
-            max=Math.max(max,currentIndex - mostRecentInvalid);
+                max= Math.max(max,i-stack[index]);
             }
         }
      }
-       return max;
+        return max;
+     
+
+
+
+
+
+
+
+
+     //2nd method optimize code 
+    //  Stack<Integer>stack = new Stack<>();
+    //  int max = 0 ;
+    //  stack.push(-1);
+    //  for(int i =0 ;i<s.length();i++){
+    //     char ch=s.charAt(i);
+    //     if(ch=='('){
+    //         stack.push(i);
+    //     }else{
+    //         stack.pop();
+    //         if(stack.isEmpty()){
+    //             stack.push(i);
+    //         }else{
+    //         int currentIndex = i;
+    //         int mostRecentInvalid = stack.peek();
+    //         max=Math.max(max,currentIndex - mostRecentInvalid);
+    //         }
+    //     }
+    //  }
+    //    return max;
      
 
 
@@ -31,7 +60,7 @@ class Solution {
 
 
 
-        //2nd method Brute force Solution
+        //3rd method Brute force Solution
        //remove all valid parenthesis
     //    Stack<Integer>stack = new Stack<>();
     //    removeValidParentheses(s,stack) ;
