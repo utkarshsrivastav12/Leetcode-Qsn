@@ -93,6 +93,7 @@ Preparing
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
@@ -124,6 +125,7 @@ Preparing
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -132,6 +134,7 @@ Preparing
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
