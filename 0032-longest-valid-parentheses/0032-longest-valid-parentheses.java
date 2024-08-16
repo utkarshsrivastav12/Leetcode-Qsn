@@ -12,10 +12,11 @@ class Solution {
             stack.pop();
             if(stack.isEmpty()){
                 stack.push(i);
-            }
+            }else{
             int currentIndex = i;
             int mostRecentInvalid = stack.peek();
             max=Math.max(max,currentIndex - mostRecentInvalid);
+            }
         }
      }
        return max;
