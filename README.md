@@ -49,6 +49,7 @@ Preparing
 | [0283-move-zeroes](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ Preparing
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
