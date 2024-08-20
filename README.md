@@ -122,6 +122,7 @@ Preparing
 | ------- |
 | [0180-consecutive-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0183-customers-who-never-order) |
+| [0585-investments-in-2016](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0607-sales-person) |
 ## String
 |  |
