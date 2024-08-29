@@ -85,6 +85,7 @@ Preparing
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
@@ -182,5 +183,10 @@ Preparing
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
