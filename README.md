@@ -54,6 +54,7 @@ Preparing
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Preparing
 | [0141-linked-list-cycle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
