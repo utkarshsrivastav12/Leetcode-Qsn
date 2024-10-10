@@ -28,6 +28,7 @@ Preparing
 | [0503-next-greater-element-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -67,6 +68,7 @@ Preparing
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
