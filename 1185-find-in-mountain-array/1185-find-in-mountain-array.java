@@ -14,7 +14,7 @@ class Solution {
         int end =n-1;
         int mid =-1;
         while(start<=end){
-            mid =start+(end-start)/2;
+            mid = end+(start-end)/2;
             int cur = mountainArr.get(mid);
             if(mid!=0 && mid !=n-1 && cur >mountainArr.get(mid-1)&& cur>mountainArr.get(mid+1)){
                 if(cur==target){
@@ -31,21 +31,21 @@ class Solution {
         start = 0;
         end = mid-1;
         while(start<=end){
-            int m = start+(end-start)/2;
+            int m = end +(start-end)/2;
             int cur = mountainArr.get(m);
             if(cur==target){
                 return m;
-            }else if(cur>target){
-                end=m-1;
-            }else{
+            }else if(cur<target){
                 start= m+1;
+            }else{
+                end=m-1;
             }
         }
         //find in second half {decreasing array}
         start= mid+1;
         end= n-1;
         while(start<=end){
-            int  m = start+(end-start)/2;
+            int m=end+(start-end)/2;
             int cur = mountainArr.get(m);
             if(cur==target){
                 return m;
