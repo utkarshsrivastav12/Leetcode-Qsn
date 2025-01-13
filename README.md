@@ -158,6 +158,7 @@ Preparing
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0234-palindrome-linked-list) |
@@ -222,6 +223,7 @@ Preparing
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -232,9 +234,11 @@ Preparing
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
