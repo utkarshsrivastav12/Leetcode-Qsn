@@ -7,6 +7,9 @@ class Solution {
         if(nums[i]==c){
             c++;
         }
+        if(nums[i]>c){
+            break;
+        }
       }
       return c;
     }
