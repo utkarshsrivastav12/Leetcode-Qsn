@@ -12,6 +12,7 @@ Preparing
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0074-search-a-2d-matrix) |
@@ -94,6 +95,7 @@ Preparing
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ Preparing
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Heap (Priority Queue)
