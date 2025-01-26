@@ -60,6 +60,9 @@ class Solution {
 //        return -1;
 //     }
 // }
+
+
+// Using slow Faster approach thinking array like a linked list element is nextNode index is Original Node
 int slow=nums[0],fast=nums[0];
 do{
     slow= nums[slow];
