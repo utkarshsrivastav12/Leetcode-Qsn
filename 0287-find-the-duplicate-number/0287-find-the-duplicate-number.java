@@ -12,20 +12,20 @@ class Solution {
 //     }
 
 // Solution 2nd-------------------------
-   int arr[] = nums;
-   for(int i = 0;i<arr.length;i++){
-    int element = Math.abs(arr[i]);
-    int actualIndex = element-1;
-    if(arr[actualIndex]<0){
-        return element;
-    }else{
-        arr[actualIndex]=-1*arr[actualIndex];
-    }
-}
+//    int arr[] = nums;
+//    for(int i = 0;i<arr.length;i++){
+//     int element = Math.abs(arr[i]);
+//     int actualIndex = element-1;
+//     if(arr[actualIndex]<0){
+//         return element;
+//     }else{
+//         arr[actualIndex]=-1*arr[actualIndex];
+//     }
+// }
     
-   return -1;
-    }
-}
+//    return -1;
+//     }
+// }
 //     public void cycleSort(int arr[]){
 //         int n = arr.length;
 //         int index =0;
@@ -60,3 +60,17 @@ class Solution {
 //        return -1;
 //     }
 // }
+int slow=nums[0],fast=nums[0];
+do{
+    slow= nums[slow];
+    fast=nums[nums[fast]];
+
+}while(slow!=fast);
+slow=nums[0];
+while(slow!=fast){
+    slow=nums[slow];
+    fast=nums[fast];
+}
+return slow;
+    }
+    }
