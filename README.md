@@ -38,6 +38,7 @@ Preparing
 | [1185-find-in-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Preparing
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Preparing
 | [0048-rotate-image](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Preparing
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
