@@ -30,25 +30,25 @@ class Solution {
     start = 0;
     end = mid-1;
     while(start<=end){
-        mid = start+(end-start)/2;
-        if(mountainArr.get(mid)==target){
-            return mid;
-        }else if(mountainArr.get(mid)>target){
-              end = mid-1;
+        int m = start+(end-start)/2;
+        if(mountainArr.get(m)==target){
+            return m;
+        }else if(mountainArr.get(m)>target){
+              end = m-1;
         }else{
-            start=mid+1;
+            start=m+1;
         }
     }
     start = mid+1;
     end= n-1;
     while(start<=end){
-        mid = start+(end-start)/2;
-        if(mountainArr.get(mid)==target){
-            return mid;
-        }else if(mountainArr.get(mid)>target){
-            start = mid+1;
+       int  m = start+(end-start)/2;
+        if(mountainArr.get(m)==target){
+            return m;
+        }else if(mountainArr.get(m)>target){
+            start = m+1;
         }else{
-            end = mid-1;
+            end = m-1;
         }
     }
 return -1;
