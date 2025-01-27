@@ -13,7 +13,7 @@ class Solution {
             break;
         }
     }
-    if(index==n || arr[0]>arr[1]){
+    if(index==n || index==0){
         return false;
     }
 //decrease order
