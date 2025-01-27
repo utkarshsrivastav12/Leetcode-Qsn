@@ -1,18 +1,45 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        int start = 0;
-        int end = arr.length-1;
-        while(start<=end){
-            int mid = end+(start-end)/2;
-            if(arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1]){
-                return mid;
-            }else if(arr[mid]>arr[mid-1]){//inc
-               start = mid+1;
-            }else{//dec
-                end=mid-1;
-            }
+        if(arr.length<3){
+            return -1;
         }
-        return -1;//never  be return why because question is already given it is bitonic array 
+    int start=0;
+    int end = arr.length-1;
+    while(start<=end){
+        int mid = start+(end-start)/2;
+        if(mid!=0 && mid !=arr.length-1 && arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1] ){
+            return mid;
+        }else if(arr[mid]<arr[mid+1]){
+            start= mid+1;
+        }else{
+            end=mid-1;
+        }
+    }
+   
+return -1;
 
-}
-}
+    }}
+
+
+
+
+
+
+
+
+//         int start = 0;
+//         int end = arr.length-1;
+//         while(start<=end){
+//             int mid = end+(start-end)/2;
+//             if(arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1]){
+//                 return mid;
+//             }else if(arr[mid]>arr[mid-1]){//inc
+//                start = mid+1;
+//             }else{//dec
+//                 end=mid-1;
+//             }
+//         }
+//         return -1;//never  be return why because question is already given it is bitonic array 
+
+// }
+// }
