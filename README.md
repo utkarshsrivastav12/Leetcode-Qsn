@@ -24,6 +24,7 @@ Preparing
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +48,7 @@ Preparing
 | [0141-linked-list-cycle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
@@ -62,6 +64,7 @@ Preparing
 | [0234-palindrome-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
@@ -76,6 +79,7 @@ Preparing
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -95,6 +99,7 @@ Preparing
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Divide and Conquer
