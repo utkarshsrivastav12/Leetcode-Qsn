@@ -45,6 +45,7 @@ Preparing
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ Preparing
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -158,6 +160,7 @@ Preparing
 | [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
