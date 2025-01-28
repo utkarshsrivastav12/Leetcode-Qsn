@@ -49,6 +49,7 @@ Preparing
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ Preparing
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Preparing
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -183,6 +186,7 @@ Preparing
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
