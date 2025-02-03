@@ -42,6 +42,7 @@ Preparing
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
