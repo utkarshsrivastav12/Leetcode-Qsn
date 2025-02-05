@@ -10,12 +10,10 @@ class Solution {
             b.append(s2.charAt(i));
         }
        }
-       if(c==0) return true;
-       if(c==2){
-        if(a.charAt(0)==b.charAt(0) && a.charAt(1)==b.charAt(1)) return true;
-        if(a.charAt(0)==b.charAt(1) && a.charAt(1)==b.charAt(0)) return true;
-
-       }
-       return false;
+        if (c == 0) return true;
+        if (c == 2) {
+            return a.charAt(0) == b.charAt(1) && a.charAt(1) == b.charAt(0);
+        }
+        return false;
     }
 }
