@@ -37,6 +37,7 @@ Preparing
 | [0978-valid-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1185-find-in-mountain-array) |
+| [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -57,6 +58,7 @@ Preparing
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
@@ -276,5 +278,6 @@ Preparing
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
