@@ -11,9 +11,9 @@ class Solution {
         int ans =0;
         for(Map.Entry<Integer,Integer>entry: pMap.entrySet()){
             int p = entry.getKey();
-            int c = entry.getValue();
-            if(c>=2){
-                int comb = (c * (c-1))/2;
+            int count = entry.getValue();
+            if( count >= 2){
+                int comb = (count * (count-1))/2;
                 ans = ans+comb*8;
             }
         }
