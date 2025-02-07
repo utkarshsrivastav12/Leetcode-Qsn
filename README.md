@@ -46,6 +46,7 @@ Preparing
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Preparing
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Preparing
 | [0054-spiral-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Database
 |  |
 | ------- |
