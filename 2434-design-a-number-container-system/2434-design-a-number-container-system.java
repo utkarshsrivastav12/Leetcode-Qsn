@@ -5,7 +5,6 @@ class NumberContainers {
         numberToIdx = new HashMap<>();
         IdxToNumber = new HashMap<>();
     }
-    
     public void change(int index, int number) {
         if(IdxToNumber.containsKey(index)){
            int pre =  IdxToNumber.get(index);
@@ -19,9 +18,7 @@ class NumberContainers {
             numberToIdx.put(number, new TreeSet<>());
         }
         numberToIdx.get(number).add(index);
-
     }
-    
     public int find(int number) {
         if(!numberToIdx.containsKey(number)){
          return -1;
