@@ -43,6 +43,7 @@ Preparing
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3429-special-array-i) |
@@ -63,6 +64,7 @@ Preparing
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -126,6 +128,7 @@ Preparing
 | [0048-rotate-image](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
@@ -286,6 +289,7 @@ Preparing
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 ## Ordered Set
 |  |
 | ------- |
