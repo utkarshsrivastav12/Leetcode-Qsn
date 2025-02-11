@@ -164,6 +164,7 @@ Preparing
 | [0054-spiral-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Database
@@ -189,6 +190,7 @@ Preparing
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Stack
@@ -209,6 +211,7 @@ Preparing
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Greedy
