@@ -44,6 +44,7 @@ Preparing
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3429-special-array-i) |
@@ -65,6 +66,7 @@ Preparing
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -115,6 +117,7 @@ Preparing
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Preparing
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
