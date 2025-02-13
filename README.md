@@ -46,6 +46,7 @@ Preparing
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -151,6 +152,7 @@ Preparing
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Preparing
 | [0059-spiral-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Database
