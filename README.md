@@ -39,6 +39,7 @@ Preparing
 | [1185-find-in-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1185-find-in-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -132,6 +133,7 @@ Preparing
 | [0048-rotate-image](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
+| [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
@@ -235,6 +237,7 @@ Preparing
 | [0225-implement-stack-using-queues](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
@@ -248,6 +251,7 @@ Preparing
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -308,4 +312,8 @@ Preparing
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
