@@ -135,6 +135,7 @@ Preparing
 | [0319-bulb-switcher](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0319-bulb-switcher) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
@@ -316,4 +317,8 @@ Preparing
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
