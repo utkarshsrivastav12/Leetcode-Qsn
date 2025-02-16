@@ -40,6 +40,7 @@ Preparing
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -320,5 +321,6 @@ Preparing
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
