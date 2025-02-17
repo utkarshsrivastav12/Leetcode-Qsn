@@ -64,6 +64,7 @@ Preparing
 | [0442-find-all-duplicates-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
+| [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -199,6 +200,7 @@ Preparing
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -307,6 +309,7 @@ Preparing
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
@@ -321,6 +324,7 @@ Preparing
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
