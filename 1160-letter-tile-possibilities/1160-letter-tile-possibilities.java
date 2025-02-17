@@ -6,7 +6,7 @@ class Solution {
         }
         return backtrack(countMap);
     }
-
+    
     private static int backtrack(Map<Character, Integer> countMap) {
         int total = 0;
         for (char tile : countMap.keySet()) {
