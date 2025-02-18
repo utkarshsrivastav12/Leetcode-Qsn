@@ -1,19 +1,20 @@
 class Solution {
     public int numTilePossibilities(String tiles) {
          Map<Character, Integer> countMap = new HashMap<>();
-        for (char tile : tiles.toCharArray()) {
-            countMap.put(tile, countMap.getOrDefault(tile, 0) + 1);
+        for (char ch : tiles.toCharArray()) {
+            countMap.put(ch, countMap.getOrDefault(ch, 0) + 1);
         }
-        return backtrack(countMap);
+        return bT(countMap);
     }
-    
-    private static int backtrack(Map<Character, Integer> countMap) {
+
+    private static int bT(Map<Character, Integer> countMap) {
         int total = 0;
-        for (char tile : countMap.keySet()) {
-            if (countMap.get(tile) > 0) {
-                countMap.put(tile, countMap.get(tile) - 1);
-                total += 1 + backtrack(countMap);
-                countMap.put(tile, countMap.get(tile) + 1); // Backtrack
+        for (char ch : countMap.keySet()) {
+            if (countMap.get(ch) > 0) {
+                countMap.put(ch, countMap.get(ch) - 1);
+                total += 1 + bT(countMap );
+                
+                countMap.put(ch, countMap.get(ch) + 1); // Backtrack
             }
         }
         return total;
