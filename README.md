@@ -209,6 +209,7 @@ Preparing
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -230,6 +231,7 @@ Preparing
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -238,6 +240,7 @@ Preparing
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -329,5 +332,6 @@ Preparing
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
