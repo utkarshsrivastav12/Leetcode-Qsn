@@ -68,6 +68,7 @@ Preparing
 | [0496-next-greater-element-i](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -251,6 +252,7 @@ Preparing
 | [0225-implement-stack-using-queues](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
@@ -300,22 +302,26 @@ Preparing
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Counting
 |  |
 | ------- |
