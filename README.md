@@ -49,6 +49,7 @@ Preparing
 | [2329-maximum-product-after-k-increments](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2329-maximum-product-after-k-increments) |
 | [2448-count-number-of-bad-pairs](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -305,11 +306,13 @@ Preparing
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@ Preparing
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0145-binary-tree-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,4 +354,8 @@ Preparing
 | [2107-find-unique-binary-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
