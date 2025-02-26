@@ -43,6 +43,7 @@ Preparing
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2107-find-unique-binary-string) |
@@ -160,6 +161,7 @@ Preparing
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
