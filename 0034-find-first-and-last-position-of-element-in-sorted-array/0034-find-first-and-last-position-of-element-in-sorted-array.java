@@ -1,32 +1,63 @@
 class Solution {
     public int[] searchRange(int[] nums, int target){
-     int a[] = new int[2];
-     a[0]=searchOccur(nums,target,true);
-     a[1]=searchOccur(nums,target,false);
-     return  a;
-     }
-     public int searchOccur(int arr[] ,int target, boolean isFirst){
-        int start=0;
-        int end = arr.length-1;
-        int ans =-1;
-        while(start<=end){
-            int mid = start+(end-start)/2;
-            if(arr[mid]==target){
-               ans = mid;
-               if(isFirst){
-                 end = mid-1;
-               }else{
-                start= mid+1;
-               }
-               }else if(arr[mid]<target){
-                 start= mid+1;
-               }else{
-                end= mid-1;
-               }
-            }
-            return ans;
+        int ans[] = new int[2];
+        ans[0]=occur(nums,target,true);
+        ans[1]=occur(nums,target,false);
+        return ans;
         }
+        public int occur(int arr[],int target,boolean isFirst){
+            int start =0;
+            int end = arr.length-1;
+            int res = -1;
+            while(start<=end){
+                int mid = start+(end-start)/2;
+                if(arr[mid]==target){
+                    res=mid;
+                    if(isFirst){
+                        end =mid-1;
+                    }else{
+                        start= mid+1;
+                    }
+                    
+                }
+                else if(arr[mid]>target){
+                    end=mid-1;
+                }else{
+                    start=mid+1;
+                }
+            }
+            
+           return res;
+        }
+
+    //  int a[] = new int[2];
+    //  a[0]=searchOccur(nums,target,true);
+    //  a[1]=searchOccur(nums,target,false);
+    //  return  a;
+    //  }
+    //  public int searchOccur(int arr[] ,int target, boolean isFirst){
+    //     int start=0;
+    //     int end = arr.length-1;
+    //     int ans =-1;
+    //     while(start<=end){
+    //         int mid = start+(end-start)/2;
+    //         if(arr[mid]==target){
+    //            ans = mid;
+    //            if(isFirst){
+    //              end = mid-1;
+    //            }else{
+    //             start= mid+1;
+    //            }
+    //            }else if(arr[mid]<target){
+    //              start= mid+1;
+    //            }else{
+    //             end= mid-1;
+    //            }
+    //         }
+    //         return ans;
+    //     }
     }
+
 
 //         int res[] = new int[2]; 
 //         int first = binarySearch(nums,target,true);
