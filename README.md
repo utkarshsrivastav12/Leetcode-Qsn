@@ -19,6 +19,7 @@ Preparing
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ Preparing
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0234-palindrome-linked-list) |
@@ -126,6 +128,7 @@ Preparing
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
