@@ -34,6 +34,7 @@ Preparing
 | [0735-asteroid-collision](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1185-find-in-mountain-array) |
@@ -94,6 +95,7 @@ Preparing
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +130,7 @@ Preparing
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0977-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
