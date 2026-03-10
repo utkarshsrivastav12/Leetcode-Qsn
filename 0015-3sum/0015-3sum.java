@@ -21,6 +21,8 @@ class Solution {
 //         return new ArrayList(result);
 //     }
 // }
+
+//   Check duplicate also in this code add some new technich to  solve this question 
        int n = nums.length;
         for(int i =0;i<nums.length-2;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
@@ -39,15 +41,14 @@ class Solution {
                     while(r>=0 && nums[r]==nums[r+1]){
                         r--;
                     }
-              }
+                }
                 else if(s<sum){
                     l++;
                 }else{
                     r--;
                 }
-        }
             }
-            return new ArrayList(result);
-        
+        }
+        return new ArrayList(result);
     }
 }
