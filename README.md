@@ -8,6 +8,7 @@ Preparing
 | ------- |
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0041-first-missing-positive) |
@@ -86,6 +87,7 @@ Preparing
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0088-merge-sorted-array) |
@@ -127,6 +129,7 @@ Preparing
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
