@@ -1,27 +1,47 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-    int windS=0;
-    int windE=0;
-    int maxLen= Integer.MIN_VALUE;
-    HashSet <Character>set = new HashSet<>();
-    int n =s.length();
-    while(windE<n){
- char ch = s.charAt(windE);
- if(set.contains(ch)){
-    //shrinking phase
-    while(windS<windE && set.contains(ch)){
-     set.remove(s.charAt(windS));
-     windS++;
+
+        int windS = 0;
+int windE = 0;
+int maxLen = Integer.MIN_VALUE;
+int n= s.length();
+HashMap<Character,Integer> map = new HashMap<>();
+while(windE<n){
+    char ch = s.charAt(windE);
+    if(map.containsKey(ch) && map.get(ch)>=windS){
+        windS = map.get(ch)+1;
     }
- }
- set.add(ch);
- maxLen = Math.max(maxLen,windE-windS+1);
-// maxLen=set.size();
- windE++;
-    }
-    return (maxLen==Integer.MIN_VALUE)?0:maxLen;
-    }
-    }
+    map.put(ch,windE);
+    maxLen = Math.max(maxLen,windE-windS+1);
+    windE++;
+}
+return (maxLen == Integer.MIN_VALUE)?0:maxLen;
+}
+}
+//     int windS=0;
+//     int windE=0;
+//     int maxLen= Integer.MIN_VALUE;
+//     HashSet <Character>set = new HashSet<>();
+//     int n =s.length();
+//     while(windE<n){
+//  char ch = s.charAt(windE);
+//  if(set.contains(ch)){
+//     //shrinking phase
+//     while(windS<windE && set.contains(ch)){
+//      set.remove(s.charAt(windS));
+//      windS++;
+//     }
+//  }
+//  set.add(ch);
+//  maxLen = Math.max(maxLen,windE-windS+1);
+// // maxLen=set.size();
+//  windE++;
+//     }
+//     return (maxLen==Integer.MIN_VALUE)?0:maxLen;
+//     }
+//     }
+
+
 
         // Set<Character>set=new HashSet<>();
         // int maxLength=0;
