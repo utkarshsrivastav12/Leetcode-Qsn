@@ -66,6 +66,7 @@ Preparing
 | [0001-two-sum](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0268-missing-number) |
@@ -220,6 +221,7 @@ Preparing
 | [0020-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -380,4 +382,5 @@ Preparing
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/utkarshsrivastav12/Leetcode-Qsn/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
